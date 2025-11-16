@@ -1,6 +1,6 @@
 
-ff <- function(x){
-  y <- x + 1
+ff <- function(x,z){
+  y <- x + 1 + z
   
   return(y)
 }
