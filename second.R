@@ -1,6 +1,8 @@
 
 ff <- function(x){
-  y <- x + 1 + 100*x*100
-  
+
+  y <- x*500
+  y= y/23
+
   return(y)
 }
